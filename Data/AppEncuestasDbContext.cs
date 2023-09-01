@@ -1,8 +1,9 @@
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
-using AppEncuestasAPI.Data;
+
 namespace AppEncuestasAPI.Data;
-public class AppEncuestasDbContext : DbContext 
+public class AppEncuestasDbContext : IdentityDbContext<ApiUser> 
 {
     public AppEncuestasDbContext(DbContextOptions<AppEncuestasDbContext> options) : base(options)
     {

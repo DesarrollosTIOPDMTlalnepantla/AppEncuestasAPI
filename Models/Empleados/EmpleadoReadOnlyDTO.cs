@@ -9,4 +9,3 @@ namespace AppEncuestasAPI.Models.Empleados
         public string? Foto { get; set; }
     }
 }
-

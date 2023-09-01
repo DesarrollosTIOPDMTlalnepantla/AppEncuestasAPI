@@ -280,3 +280,11 @@ D:\AppEncuestasAPI\obj\Debug\net7.0\refint\AppEncuestasAPI.dll
 D:\AppEncuestasAPI\obj\Debug\net7.0\AppEncuestasAPI.pdb
 D:\AppEncuestasAPI\obj\Debug\net7.0\AppEncuestasAPI.genruntimeconfig.cache
 D:\AppEncuestasAPI\obj\Debug\net7.0\ref\AppEncuestasAPI.dll
+D:\AppEncuestasAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\AppEncuestasAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\AppEncuestasAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\AppEncuestasAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\AppEncuestasAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\AppEncuestasAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\AppEncuestasAPI\bin\Debug\net7.0\Serilog.dll
+D:\AppEncuestasAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll

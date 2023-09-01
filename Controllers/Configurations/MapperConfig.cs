@@ -3,6 +3,7 @@ using AppEncuestasAPI.Data;
 using AppEncuestasAPI.Models.Encuestas;
 using AppEncuestasAPI.Models.EmpleadosEncuesta;
 using AppEncuestasAPI.Models.Empleados;
+using AppEncuestasAPI.Models.User;
 
 
 namespace AppEncuestasAPI.Configurations
@@ -17,6 +18,7 @@ namespace AppEncuestasAPI.Configurations
             CreateMap<EmpleadoEncuestaActualizarDTO, EmpleadoEncuesta>().ReverseMap();
             CreateMap<EmpleadoEncuestaReadOnlyDTO, EmpleadoEncuesta>().ReverseMap();
             CreateMap<EmpleadoReadOnlyDTO, Empleado>().ReverseMap();
+            CreateMap<ApiUser, UserDTO>().ReverseMap();
         }
     }
 }
